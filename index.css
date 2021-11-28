@@ -512,6 +512,7 @@ p {
 
   .mainContainer {
     margin-top: -40px;
+    height: 40px;
   }
 
   p.firstPharagraph {
