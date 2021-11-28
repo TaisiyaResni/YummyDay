@@ -343,6 +343,7 @@ div.modalWindowContent {
 
   p.cardTitle {
     font-size: 20px;
+    height: auto;
   }
 
   a {
@@ -424,6 +425,7 @@ div.modalWindowContent {
 
   p.cardTitle {
     font-size: 20px;
+    height: auto;
   }
 
   a {
