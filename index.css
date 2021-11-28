@@ -231,6 +231,10 @@ p {
 
 @media only screen and (min-width: 974px) and (max-width: 1150px) {
 
+  .siteNameContainer {
+    height: 90px;
+  }
+
   .siteName {
     height: 89px;
   }
@@ -247,6 +251,10 @@ p {
   p.secondParagraph {
     top: 40px;
     font-size: 25px;
+  }
+
+  p {
+    font-size: 40px;
   }
 
   .mainContainer > div {
@@ -339,7 +347,7 @@ p {
   }
 
   p {
-    font-size: 36px;
+    font-size: 34px;
   }
 
   .mainContainer > div {
@@ -347,8 +355,8 @@ p {
   }
 
   .mainContainer > #firstDiv > #firstImg {
-    width: 380px;
-    height: 362px;
+    width: 375px;
+    height: 335px;
     top: -60px;
     right: -90px;
   }
@@ -412,6 +420,10 @@ p {
 }
 
 @media only screen and (min-width: 370px) and (max-width: 759px) {
+
+  .siteNameContainer {
+    height: 50px;
+  }
 
   .siteName {
     height: 50px;
@@ -506,13 +518,16 @@ p {
 
 @media only screen and (min-width: 315px) and (max-width: 369px) {
 
+  .siteNameContainer {
+    height: 40px;
+  }
+
   .siteName {
     height: 40px;
   }
 
   .mainContainer {
     margin-top: -40px;
-    height: 40px;
   }
 
   p.firstPharagraph {
