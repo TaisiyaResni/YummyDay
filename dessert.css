@@ -238,7 +238,7 @@ div.modalWindowContent {
   }
 
   .container1 {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 50px;
     margin-top: 230px;
   }
@@ -288,7 +288,7 @@ div.modalWindowContent {
 
   p.cardTitle {
     font-size: 25px;
-    height: 68px;
+    height: 50px;
     padding: 0 10px;
   }
 
@@ -300,8 +300,9 @@ div.modalWindowContent {
   }
 
   .container1 {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
     grid-gap: 50px;
+    margin-top: 270px;
   }
 
 }
@@ -327,6 +328,10 @@ div.modalWindowContent {
   p {
     font-size: 20px;
     margin-top: 5px;
+  }
+
+  p.cardTitle {
+    font-size: 20px;
   }
 
   a {
@@ -404,6 +409,11 @@ div.modalWindowContent {
   p {
     font-size: 20px;
     margin-top: 5px;
+  }
+
+  p.cardTitle {
+    font-size: 20px;
+    height: 30px;
   }
 
   a {

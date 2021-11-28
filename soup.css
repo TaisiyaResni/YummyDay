@@ -143,7 +143,7 @@ button {
   cursor: pointer;
   transition: 0.5s;
   text-decoration: none;
-  background-color: #fff2e6;
+  background-color: #d2a679;
 }
 
 button:hover {
@@ -297,6 +297,7 @@ div.modalWindowContent {
   .container1 {
     grid-template-columns: 1fr 1fr;
     grid-gap: 50px;
+    margin-top: 290px;
   }
 
   .image {
@@ -341,6 +342,11 @@ div.modalWindowContent {
   p {
     font-size: 20px;
     margin-top: 5px;
+  }
+
+  p.cardTitle {
+    font-size: 20px;
+    height: 50px;
   }
 
   a {
@@ -418,6 +424,11 @@ div.modalWindowContent {
   p {
     font-size: 20px;
     margin-top: 5px;
+  }
+
+  p.cardTitle {
+    font-size: 20px;
+    height: 50px;
   }
 
   a {
