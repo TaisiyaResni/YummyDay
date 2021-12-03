@@ -250,7 +250,7 @@ div.modalWindowContent {
   }
 
   button {
-    font-size: 25px;
+    font-size: 30px;
     padding: 13px 40px;
     bottom: 15px;
   }
@@ -321,6 +321,10 @@ div.modalWindowContent {
 
 @media only screen and (min-width: 370px) and (max-width: 759px) {
 
+  #link {
+    font-size: 15px;
+  }
+
   .siteNameContainer {
     height: 60px;
   }
@@ -378,9 +382,9 @@ div.modalWindowContent {
   }
 
   button {
-    font-size: 15px;
-    padding: 5px 20px;
-    bottom: 5px;
+    font-size: 18px;
+    padding: 8px 30px;
+    bottom: 8px;
   }
 
   .image {
@@ -402,6 +406,10 @@ div.modalWindowContent {
 }
 
 @media only screen and (min-width: 315px) and (max-width: 369px) {
+
+  #link {
+    font-size: 14px;
+  }
 
   .siteNameContainer {
     height: 60px;
@@ -460,9 +468,9 @@ div.modalWindowContent {
   }
 
   button {
-    font-size: 15px;
-    padding: 5px 20px;
-    bottom: 5px;
+    font-size: 18px;
+    padding: 6px 30px;
+    bottom: 8px;
   }
 
   .image {
